@@ -19,6 +19,19 @@
  * Для боссов: [WebCrawlerBossTest.java](java/crawler/WebCrawlerBossTest.java)
  * Для экспериментов: [CachingDownloader.java](java/crawler/CachingDownloader.java)
 
+Georgiy Korneev, [26.12.17 13:48]
+Боссы для Введения в программирование, гр. M3136, 37
+
+https://neerc.ifmo.ru/temp/crawler/google_cache.zip
+https://neerc.ifmo.ru/temp/crawler/ietf_cache.zip
+https://neerc.ifmo.ru/temp/crawler/ifmo_cache.zip
+https://neerc.ifmo.ru/temp/crawler/jls_cache.zip
+https://neerc.ifmo.ru/temp/crawler/vlib_cache.zip
+
+Что бы сдать босса вы должны запустить WebCrawlerBossTest <boss.zip> <фамилия на английком>,
+и прислать полученный сертификат мне.
+Боссы упорядочены в алфавитном порядке.
+
 
 Домашнее задание 8. Markdown to HTML
 ----
