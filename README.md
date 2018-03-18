@@ -1,6 +1,6 @@
 # Тесты к курсу «Введение в программирование»
 
-[Условия домашних заданий](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
+[Условия домашних заданий](https://github.com/ruperson/prog-intro-2017/homeworks.html)
 
 Домашнее задание 9. WebCrawler
 ----
